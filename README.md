@@ -1,24 +1,6 @@
-# README
+# ABOUT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Studies have shown that in heterosexual partnerships, women do approximately 16 hours of chores a week while men do 6 hours[1] This app aims to show the disparity of chores in a couple while also reminding each partner of their chores through SMS. No one like's a nag.. and this app will hopefully nag your partner for you. 
 
-Things you may want to cover:
+[1] https://www.independent.co.uk/life-style/women-men-household-chores-domestic-house-gender-norms-a9021586.html
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
