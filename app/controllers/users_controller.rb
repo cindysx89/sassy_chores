@@ -1,6 +1,15 @@
 class UsersController < ApplicationController
 
-  def show
-    render html: "SHOW!"
+  def index
+    User.all
+  end
+
+  def create
+  end
+
+  def edit
+  end
+
+  def destroy
   end
 end
